@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/125621591/229724982-3f92bac2-3d8c-46fa-b23d-2ad7564e7836.png)
 ![image](https://user-images.githubusercontent.com/125621591/229725046-f27d8aed-ab84-4b65-9a9c-6b3107ffe7ca.png)
 
-# 데이터 시각화
+# 👀데이터 시각화
 ## 첫번째 요소 : 3번 이상 출연한 배우들(100명)
 <img src="https://user-images.githubusercontent.com/125621591/229726690-ec70aed8-35a4-41ae-b269-2ea60519ac68.png" width="500" height="400"/>
 
@@ -47,6 +47,6 @@
 ![image](https://user-images.githubusercontent.com/125621591/229729400-29397050-a092-4baf-91f5-ae5c36be45da.png)
 - 연말연시, 가정의 달인 5월, 여름휴가기간인 7,8월에 관객 수가 많은 편
 
-# 결론 및 기대효과
+# 👨‍🎓결론 및 기대효과
 - 결론 : 데이터를 수집하고 정제하여 분석 및 시각화를 해보니 상대적으로 유의미한 데이터(장르, 배급사, 관람 등급 등)도 있는 반면에 의미가 있을 것이라고 예상해 추출한 데이터(상영 길이 등)가 무의미한 경우도 존재했다.
 - 기대효과 : 제작사 입장에서 이 데이터를 보고 영화를 제작할 때 어떤 요소에 더 가중치를 줘야하는지 알 수 있을 것이다
